@@ -1,4 +1,4 @@
 # .gitignore
 .env            # Excludes all .env files
 .venv/          # Excludes virtual environment
-__pycache__/    # Fixed typo (was "_pycache__/")
+__pycache__/    # Fixed typo (was "_pycache__/").env
